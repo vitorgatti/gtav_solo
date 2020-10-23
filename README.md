@@ -7,4 +7,6 @@ Script para ficar solo na sessão de GTA V Online.
 feito isso estará solo na sessão.
 
 
+Testei apenas com o Windows 10 Pro.
+
 
